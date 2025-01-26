@@ -1,31 +1,12 @@
-
-<p align="center">
-    <a href="https://github.com/cohenyuval315"
-        style="color: pink; font-size: 40px;"
-    >
-        Yuval Cohen
-    </a>
-</p>
-
+<h2 align="center">
+    Yuval Cohen
+</h2>
 <p align="center">
   <a href="https://github.com/cohenyuval315">
-    <img src="https://readme-typing-svg.demolab.com/?lines=
-        Software Engineer;
-        Coding experience;
-        Always%20learning%20new%20things
-        &font=FiraCode
-        &center=true
-        &width=440
-        &height=45
-        &color=f75c7e
-        &vCenter=true
-        &pause=1000
-        &size=22" 
+    <img src="https://readme-typing-svg.demolab.com/?lines=Software Engineer;Coding experience;Always%20learning%20new%20things&font=FiraCode&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" 
         />
     </a>
 </p>
-
-
 <p align="center">
     <a href="https://github.com/cohenyuval315?tab=repositories&sort=stargazers">
         <img 
@@ -46,8 +27,6 @@
             src="https://komarev.com/ghpvc/?username=cohenyuval315&style=for-the-badge&base=167"/>
     </a>
 </p>
-
-
 <div>
   <p>👋 Hi, I’m Yuval Cohen, an enthusiastic and ambitious Software Engineer and Developer ⚡️.</p>
   <p>🃏 A jack of all trades, and a master of some 🤓</p>
@@ -55,7 +34,6 @@
   <p>🛠️ I love building generic reusable modular scalable code.</p>
   <p>🤝 I love to network, join new communities, and add value wherever I go ✨.</p>
 </div>
-
 <div align="center">
 <details>
     <summary><h2>Platforms</h2></summary>
