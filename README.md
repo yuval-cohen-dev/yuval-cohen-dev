@@ -67,15 +67,46 @@ Jack of all trades 🃏, and a master of some, with cross-domain knowledge, deep
 <p style="color: lightgreen;">
  Feel free to send me a message!
  </p>
-</div>
-
+</div>    
+<style>
+    details>summary {
+        list-style: none;
+    }
+    summary::-webkit-details-marker {
+        display: none
+    }
+    summary::after {
+        content: ' ►';
+    }
+    summary>span {
+        font-size:22px
+    }
+    details[open] summary:after {
+        content: " ▼";
+    }    
+</style>
 <div align="center">
-
-
 <details> 
-    <summary><h2>💻 My Tech Stack 📱</h2></summary>
-    <p> everything here is ordered from top left to bottom right by my own metrics</p>
-    <h3>👨‍💻 My Programming and Markup Languages</h3>
+    <summary>
+        <span>💻 My Tech Stack 📱</span>
+    </summary>
+    <p><span style="font-size: 1em; font-weight: bold ; color: yellow;"> 
+        ⚠️ Important 
+    </span>
+
+⚠️ **Important!**: My tech stack follows a **top-left to bottom-right**. Please Keep this in mind as you explore!.
+The Order hierarchy based , on 🏆 experience, 🚀 frequency of use, ❤️ preference, or 🎯 go-to choices. 
+
+⚠️ **Important!**: This isn't a comprehensive list. Some lesser-known or use-case-specific technologies and libraries aren’t included here. Consider this a general overview of my main tools!
+
+⚠️ **Important!**:: Some sections might seem a bit detailed or repetitive, but I promise nothing here is misleading. For instance, I could add things like meta programming or pair programming (will find time in the future for those two), but since I don't have real experience with them, they're not included.
+This list only shows my actual skills and knowledge, built over 15 years of planning, designing, implementing and testing (besides my bachelor’s).  
+</p>
+</br>
+
+```code
+👨‍💻 My Programming and Markup Languages
+```
 <p>
     <a href="https://github.com/search?q=user%3Acohenyuval315+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Acohenyuval315+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
@@ -84,21 +115,29 @@ Jack of all trades 🃏, and a master of some, with cross-domain knowledge, deep
     <a href="https://github.com/search?q=user%3Acohenyuval315+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-00599C.svg?logo=cpp2&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Acohenyuval315+language%3Agolang"><img alt="Golang" src="https://img.shields.io/badge/Go-00ADD8.svg?logo=Go&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Acohenyuval315+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Acohenyuval315+language%3Scala"><img alt="Scala" src="https://custom-icon-badges.demolab.com/badge/Scala-DC322F.svg?logo=scala&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3Acohenyuval315+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>    
     <a href="https://github.com/search?q=user%3Acohenyuval315+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Acohenyuval315+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Acohenyuval315+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Acohenyuval315+language%3Scala"><img alt="Scala" src="https://custom-icon-badges.demolab.com/badge/Scala-DC322F.svg?logo=scala&logoColor=white"></a>    
     <a href="https://github.com/search?q=user%3Acohenyuval315+language%3Aassembly"><img alt="MIPS Assembly" src="https://custom-icon-badges.demolab.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Acohenyuval315+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>    
     <a href="https://github.com/search?q=user%3Acohenyuval315+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Acohenyuval315+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Acohenyuval315+language%3Atex"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Acohenyuval315+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
     <a href="#"><img alt="XML" src="https://img.shields.io/badge/XML-767C52.svg?logo=xml&logoColor=fff"></a>
     <a href="https://github.com/search?q=user%3Acohenyuval315+language%3Ar"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
+        <a href="#"><img alt="JSON" src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff"></a>
+        <a href="#"><img alt="YAML" src="https://img.shields.io/badge/YAML-purple?logo=yaml&logoColor=fff"></a>
+        <a href="#"><img alt="Protobuf" src="https://img.shields.io/badge/Protobuf-white?logo=protobuf&logoColor=fff"></a>
+        <a href="#"><img alt="Binary" src="https://img.shields.io/badge/Binary-000?logo=archive&style=flat&logoColor=fff"></a>
 </p>
-    <h3>My Core Stack</h3>
-    <p>
-        These are the tools and technologies that are always by my side when I code.
+</br>
+
+```
+My Core Stack
+```    
+<p>
+    These are the tools and technologies that are always by my side when I code.
     </p>
     <p>
         <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-black.svg?style=for-the-badge&logo=linux&logoColor=white"></a>   
@@ -109,9 +148,13 @@ Jack of all trades 🃏, and a master of some, with cross-domain knowledge, deep
         <a href="#"><img alt="Docker Compose" src="https://img.shields.io/badge/Docker%20Compose-FF5C8D.svg?style=for-the-badge&logo=docker&logoColor=white"></a>        
         <a href="#"><img alt="Dev Containers" src="https://img.shields.io/static/v1?style=for-the-badge&message=Devcontainers&color=2496ED&logo=Docker&logoColor=FFFFFF&label="/></a>   
         <a href="#"><img alt="Visual_Studio_Code" src ="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>                          
-    </p>    
-    <h3>My IDEs</h3>
-    <p>              
+    </p>   
+</br>
+
+```
+My IDEs
+```    
+<p>              
         <a href="#"><img alt="Visual_Studio_Code" src ="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>    
         <a href="#"><img alt="Pycharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"></a>        
         <a href="#"><img alt="Visual Studio" src ="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"></a>   
@@ -119,86 +162,153 @@ Jack of all trades 🃏, and a master of some, with cross-domain knowledge, deep
         <a href="#"><img alt="Android Studio" src ="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"></a>  
         <a href="#"><img alt="RStudio" src="https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white"/></a>                                       
     </p>    
-    <details open>
-        <summary><h3>🧰 My Tools,Frameworks and Libs ⚒</h3></summary>   
-        <p>
-            My most common frameworks and libs separated by programming language, the ones on top are core, and used indefinitely.
-        there are probably more that are project specific, which are not written here
-        </p>   +
-        <p>
-            <details>
-                <summary><h3>Python</h3></summary>   
-                <p>my best language, know the the built in libaries really well,   going according to pep guidelines, and python.org, most exprience
-                </p>
-                    <a href="#"><img alt="pyproject.toml" src="https://img.shields.io/badge/pyproject.toml-FB9CD7?style=for-the-badge&logo=python&logoColor=black"/></a>
-                    <a href="#"><img alt="pip" src="https://img.shields.io/badge/pip-3776AB?style=for-the-badge&logo=pypi&logoColor=white"/></a>
-                    <a href="#"><img alt="uv" src="https://img.shields.io/badge/uv-FFD43B?style=for-the-badge&logo=python&logoColor=black"/></a>
-                    <a href="#"><img alt="ruff" src="https://img.shields.io/badge/ruff-%23d7ff64?style=for-the-badge&logo=ruff&logoColor=black"/></a>
-                    <a href="#"><img alt="pre-commit" src="https://img.shields.io/badge/pre%20commit-blue?style=for-the-badge&logo=pre-commit&logoColor=white"/></a>
-                    <a href="#"><img alt="black" src="https://img.shields.io/badge/black-black?style=for-the-badge"/></a>
-                    <a href="#"><img alt="isort" src="https://img.shields.io/badge/isort-1f425f?style=for-the-badge&logo=python&logoColor=white"/></a>
-                    <a href="#"><img alt="pylint" src="https://img.shields.io/badge/pylint-FFD43B?style=for-the-badge&logo=python&logoColor=black"/></a>
-                    <a href="#"><img alt="pyright" src="https://img.shields.io/badge/pyright-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a>
-                    <a href="#"><img alt="mypy" src="https://img.shields.io/badge/mypy-2C5F2D?style=for-the-badge&logo=python&logoColor=white"/></a>                
-                <p>        
-                    <details open>
-                        <summary><h3>Frameworks</h3></summary> 
-                        <a href="#"><img alt="cython" src="https://img.shields.io/badge/cython-%23ffffff.svg?style=for-the-badge&logo=python&logoColor=2f9fe3"/></a>
-                        <a href="#"><img alt="pytest" src="https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3"/></a>
-                        <a href="#"><img alt="Pydantic" src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=Pydantic&logoColor=white"/></a>
-                        <a href="#"><img alt="sqlalchemy" src="https://img.shields.io/badge/sqlalchemy-%23013243.svg?style=for-the-badge&logo=python&logoColor=white"/></a>
-                        <a href="#"><img alt="fastapi" src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white"/></a>
-                        <a href="#"><img alt="starlette" src="https://img.shields.io/badge/starlette-%23ffffff.svg?style=for-the-badge&logo=python&logoColor=2f9fe3"/></a>
-                        <a href="#"><img alt="uvicorn" src="https://img.shields.io/badge/uvicorn-%23ffffff.svg?style=for-the-badge&logo=python&logoColor=2f9fe3"/></a>
-                        <a href="#"><img alt="gunicorn" src="https://img.shields.io/badge/gunicorn-%23ffffff.svg?style=for-the-badge&logo=python&logoColor=black"/></a>
-                        <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/></a>
-                        <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/></a>
-                    </details>                       
-                    <details open>
-                        <summary><h3>ML And Data Science</h3></summary>   
-                        <p>
-                            <a href="#"><img alt="jupyter" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"/></a>
-                            <a href="#"><img alt="googlecolab" src="https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white"/></a>                        
-                            <a href="#"><img alt="numpy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/></a>
-                            <a href="#"><img alt="pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/></a>
-                            <a href="#"><img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/></a>
-                            <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/></a>
-                            <a href="#"><img alt="seaborn" src="https://img.shields.io/badge/seaborn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/></a>
-                            <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>
-                            <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/></a>
-                            <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white"/></a>
-                            <a href="#"><img alt="SciPy" src="https://img.shields.io/badge/SciPy-%23FA0F00.svg?style=for-the-badge&logo=SciPy&logoColor=white"/></a>
-                            <a href="#"><img alt="NLTK" src="https://img.shields.io/badge/NLTK-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>
-                            <a href="#"><img alt="transformers" src="https://img.shields.io/badge/transformers-1C3C3C?style=for-the-badge&logo=langchain&logoColor="/></a>
-                            <a href="#"><img alt="HuggingFace" src="https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black"/></a>
-                            <a href="#"><img alt="langchain" src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor="/></a>                            
-                        </p>                                                    
-                    </details>
-                    <details open>
-                        <summary><h3>Libs</h3></summary>   
-                        <p>
-                            <a href="#"><img alt="locust" title="locust" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white"/></a>
-                            <a href="#"><img alt="BeautifulSoup" src="https://img.shields.io/badge/BeautifulSoup-%23ffffff.svg?style=for-the-badge&logo=beautifulsoup&logoColor=2f9fe3"/></a>
-                            <a href="#"><img alt="selenium" title="selenium" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white"/></a>
-                        </p>
-                    </details>
-                    <details open>
-                        <summary><h3>Tools</h3></summary> 
-                        <a href="#"><img alt="pyenv" src="https://img.shields.io/badge/pyenv-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/></a>
-                        <a href="#"><img alt="bandit" src="https://img.shields.io/badge/bandit-red?style=for-the-badge&logo=python&logoColor=white"/></a>
-                        <a href="#"><img alt="flake8" src="https://img.shields.io/badge/flake8-lightgrey?style=for-the-badge&logo=python&logoColor=black"/></a>
-                        <a href="#"><img alt="autopep8" src="https://img.shields.io/badge/autopep8-00A896?style=for-the-badge&logo=python&logoColor=white"/></a>
-                        <a href="#"><img alt="pyupdate" src="https://img.shields.io/badge/pyupdate-orange?style=for-the-badge&logo=python&logoColor=white"/></a>
-                        <a href="#"><img alt="creosote" src="https://img.shields.io/badge/CREOSOTE-8B0000?style=for-the-badge&logo=python&logoColor=white"/></a>
-                        <a href="#"><img alt="Code spell" src="https://img.shields.io/badge/codespell-4285F4?logo=pre-commit&logoColor=FAB040"></a>
-                    </details>                              
-                </p>                                
-            </details>                                             
-            <!-- Javascript / Typescript -->
-            <details>  
-                <summary><h3>Javascript / Typescript</h3></summary> 
-                <p>
-                </p>
+
+---
+<details open>
+    <summary>
+        <span>🧰 🛠️ My Tech Stack Breakdown by Programming Language 🌐</span>
+    </summary>   
+
+
+<p>
+
+```
+Frameworks and libraries are listed by programming language. 🔝 The top ones are core and used indefinitely, while project-specific tools 🔧 are not included—only the main ones are shown.
+```
+
+</p>
+    <p>
+        
+
+<details>
+    <summary><span style="color:lightgreen; font-size:20px;">🐉 Python 🐲</span></summary> 
+
+---
+<p>
+Python is my language of choice. I have a deep understanding of its built-in libraries and consistently follow PEP guidelines. My experience is rooted in practical use and frequent reference to the official Python documentation at python.org.
+</p>
+
+---
+
+</p>
+<a href="#"><img alt="pyproject.toml" src="https://img.shields.io/badge/pyproject.toml-FB9CD7?style=for-the-badge&logo=python&logoColor=black"/></a>
+<a href="#"><img alt="pip" src="https://img.shields.io/badge/pip-3776AB?style=for-the-badge&logo=pypi&logoColor=white"/></a>
+<a href="#"><img alt="uv" src="https://img.shields.io/badge/uv-FFD43B?style=for-the-badge&logo=python&logoColor=black"/></a>
+<a href="#"><img alt="ruff" src="https://img.shields.io/badge/ruff-%23d7ff64?style=for-the-badge&logo=ruff&logoColor=black"/></a>
+<a href="#"><img alt="pre-commit" src="https://img.shields.io/badge/pre%20commit-blue?style=for-the-badge&logo=pre-commit&logoColor=white"/></a>
+<a href="#"><img alt="black" src="https://img.shields.io/badge/black-black?style=for-the-badge"/></a>
+<a href="#"><img alt="isort" src="https://img.shields.io/badge/isort-1f425f?style=for-the-badge&logo=python&logoColor=white"/></a>
+<a href="#"><img alt="pylint" src="https://img.shields.io/badge/pylint-FFD43B?style=for-the-badge&logo=python&logoColor=black"/></a>
+<a href="#"><img alt="pyright" src="https://img.shields.io/badge/pyright-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a>
+<a href="#"><img alt="mypy" src="https://img.shields.io/badge/mypy-2C5F2D?style=for-the-badge&logo=python&logoColor=white"/></a>                
+<p>        
+
+---
+
+<br/>
+<br/>
+<details open>
+    <summary><span style="color:lightgreen; font-size:18px;"> ⚔️ Frameworks 🛡</s></summary> 
+<p>
+
+---
+
+Top-tier frameworks that I absolutely love — no longer using Flask or Django.
+
+---
+
+</p>    
+    <a href="#"><img alt="cython" src="https://img.shields.io/badge/cython-%23dffcef.svg?style=for-the-badge&logo=python&logoColor=lightgreen"/></a>
+    <a href="#"><img alt="pytest" src="https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3"/></a>
+    <a href="#"><img alt="Pydantic" src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=Pydantic&logoColor=white"/></a>
+    <a href="#"><img alt="sqlalchemy" src="https://img.shields.io/badge/sqlalchemy-%23013243.svg?style=for-the-badge&logo=python&logoColor=white"/></a>
+    <a href="#"><img alt="fastapi" src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white"/></a>
+    <a href="#"><img alt="starlette" src="https://img.shields.io/badge/starlette-%23ffaaff.svg?style=for-the-badge&logo=python&logoColor=purple"/></a>
+    <a href="#"><img alt="uvicorn" src="https://img.shields.io/badge/uvicorn-%23ffadda.svg?style=for-the-badge&logo=python&logoColor=black"/></a>
+    <a href="#"><img alt="gunicorn" src="https://img.shields.io/badge/gunicorn-%23ffffff.svg?style=for-the-badge&logo=python&logoColor=black"/></a>
+    <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/></a>
+    <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/></a>
+</details>                       
+
+---
+
+<br/>
+<br/>
+<details open>
+    <summary><span style="color:lightgreen; font-size:18px;">⚗️ ML And Data Science 🧪</span></summary>   
+<p>
+
+---
+
+Love jupyter, numpy and hugging face
+
+---
+
+</p>
+<p>
+    <a href="#"><img alt="jupyter" src="https://img.shields.io/badge/jupyter-%2300A4A6.svg?style=for-the-badge&logo=jupyter&logoColor=white"/></a>
+    <a href="#"><img alt="googlecolab" src="https://img.shields.io/badge/Google%20Colab-%239C27B0.svg?style=for-the-badge&logo=googlecolab&logoColor=white"/></a>                        
+    <a href="#"><img alt="numpy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/></a>
+    <a href="#"><img alt="pandas" src="https://img.shields.io/badge/pandas-%23160400.svg?style=for-the-badge&logo=pandas&logoColor=white"/></a>
+    <a href="#"><img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23228B22.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/></a>
+    <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%233F51B5.svg?style=for-the-badge&logo=Matplotlib&logoColor=white"/></a>
+    <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23FF7F50?style=for-the-badge&logo=pytorch&logoColor=white"/></a>
+    <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-%23D32F2F?style=for-the-badge&logo=keras&logoColor=white"/></a>
+    <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%239C27B0?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>                            
+    <a href="#"><img alt="transformers" src="https://img.shields.io/badge/transformers-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/></a>
+    <a href="#"><img alt="HuggingFace" src="https://img.shields.io/badge/-HuggingFace-%23FF4081?style=for-the-badge&logo=HuggingFace&logoColor=black"/></a>                            
+    <a href="#"><img alt="seaborn" src="https://img.shields.io/badge/seaborn-%2314B1AB.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/></a>                            
+    <a href="#"><img alt="SciPy" src="https://img.shields.io/badge/SciPy-%233F51B5.svg?style=for-the-badge&logo=SciPy&logoColor=white"/></a>
+    <a href="#"><img alt="langchain" src="https://img.shields.io/badge/langchain-%230D47A1?style=for-the-badge&logo=langchain&logoColor=white"/></a>
+    <a href="#"><img alt="NLTK" src="https://img.shields.io/badge/NLTK-%23FF5722?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>
+</p>
+</details>
+
+<br/>
+<br/>
+<details>
+    <summary><span style="color:lightgreen; font-size:18px;">📚 Libraries 📖</span></summary>   
+    <p>
+<a href="#"><img alt="Locust" src="https://img.shields.io/badge/Locust-%23ffffff.svg?style=for-the-badge&logo=Locust&logoColor=2f9fe3"/></a>        
+        <a href="#"><img alt="Scrapy" src="https://img.shields.io/badge/Scrapy-%23ffffff.svg?style=for-the-badge&logo=beautifulsoup&logoColor=2f9fe3"/></a>    
+        <a href="#"><img alt="BeautifulSoup" src="https://img.shields.io/badge/BeautifulSoup-%23ffffff.svg?style=for-the-badge&logo=beautifulsoup&logoColor=2f9fe3"/></a>
+        <a href="#"><img alt="selenium" title="selenium" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white"/></a>
+        <span style="font-size:40px; padding-left: 10px">...</span>            
+    </p>
+</details>
+
+---
+
+</br>
+</br>
+ <details open>
+<summary><span style="color:lightgreen; font-size:18px;">📚 Tools 📖</span></summary>   
+
+---
+
+<p>
+        I'm familiar with a variety of excellent tools, but I prefer the top ones. That said, the following tools hold a special place in my stack and are used on many occasions for their unique value.
+</p>     
+
+---
+
+<p>
+        <a href="#"><img alt="pyenv" src="https://img.shields.io/badge/pyenv-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/></a>
+        <a href="#"><img alt="bandit" src="https://img.shields.io/badge/bandit-red?style=for-the-badge&logo=python&logoColor=white"/></a>
+        <a href="#"><img alt="flake8" src="https://img.shields.io/badge/flake8-lightgrey?style=for-the-badge&logo=python&logoColor=black"/></a>
+        <a href="#"><img alt="autopep8" src="https://img.shields.io/badge/autopep8-00A896?style=for-the-badge&logo=python&logoColor=white"/></a>
+        <a href="#"><img alt="pyupdate" src="https://img.shields.io/badge/pyupdate-orange?style=for-the-badge&logo=python&logoColor=white"/></a>
+        <a href="#"><img alt="creosote" src="https://img.shields.io/badge/CREOSOTE-8B0000?style=for-the-badge&logo=python&logoColor=white"/></a>
+        <a href="#"><img alt="Code spell" src="https://img.shields.io/badge/codespell-4285F4?style=for-the-badge&logo=pre-commit&logoColor=FAB040"></a>
+        <span style="font-size:40px; padding-left: 10px">...</span>            
+</p>             
+ </details>                                         
+
+<details>
+    <summary><span style="color:lightblue; font-size:20px;">🐬 Javascript / Typescript ❄️</span></summary> 
+    <p>
+        love this programming language
+    </p>
                 <p>
                     <!-- General -->
                         <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
@@ -246,49 +356,72 @@ Jack of all trades 🃏, and a master of some, with cross-domain knowledge, deep
                 </p>                                                                                    
             </details>   
             <!-- C / C++ -->
-            <details>
-                <summary><h3>C / C++</h3></summary>    
-                <p></p>   
-                <p>                
-                    <a href="#"><img alt="cmakefile" src="https://img.shields.io/badge/makefile-red.svg?style=for-the-badge&logo=makefile&logoColor=black"></a>                   
-                    <a href="#"><img alt="MPI" src="https://img.shields.io/badge/MPI-%23FFFFFF.svg?style=for-the-badge&logoColor=white"/></a>  
-                    <a href="#"><img alt="OpenMP" src="https://img.shields.io/badge/OpenMP-%2376B900.svg?style=for-the-badge&logoColor=white"/></a>          
-                    <a href="#"><img alt="Cuda" src="https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green"></a>                
-                    <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/></a>             
-                    <a href="#"><img alt="OpenGL" src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl"/></a>   
-                    <a href="#"><img alt="Unity" src ="https://img.shields.io/badge/Unity-00979D?style=for-the-badge&logo=unity&logoColor=white"></a>                       
-                    <a href="#"><img alt="Arduino" src ="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"></a>                       
-                </p>
-            </details>            
+<details>
+    <summary><h3>C / C++</h3></summary>    
+    <p>
+        My first love, after using assembly this language felt perfect, 
+        giving a level of abstractaction from the hardware assambly vendors to C is giving me chills, the time consume just to create a loop is sagnificant . the full control you have all over the system is giving a good schetching to my itching in other progamming languages
+        C and hes more fatter muscler brother C++ aboslute monsters, i should code more with them, well i do need a usecase first, since without a solid use case coding in python probably yield %1000 efficancy on this, love the parrallel computing, distributed computing and performance, and enjoyed some hobbies with unity and ardino.
+    </p>   
+    <p>                
+        <a href="#"><img alt="cmakefile" src="https://img.shields.io/badge/makefile-red.svg?style=for-the-badge&logo=makefile&logoColor=black"></a>                   
+        <a href="#"><img alt="MPI" src="https://img.shields.io/badge/MPI-%23FFFFFF.svg?style=for-the-badge&logoColor=white"/></a>  
+        <a href="#"><img alt="OpenMP" src="https://img.shields.io/badge/OpenMP-%2376B900.svg?style=for-the-badge&logoColor=white"/></a>          
+        <a href="#"><img alt="Cuda" src="https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green"></a>                
+        <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/></a>             
+        <a href="#"><img alt="OpenGL" src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl"/></a>   
+        <a href="#"><img alt="Unity" src ="https://img.shields.io/badge/Unity-00979D?style=for-the-badge&logo=unity&logoColor=white"></a>                       
+        <a href="#"><img alt="Arduino" src ="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"></a>                       
+    </p>
+</details>            
             <!-- Java / Scala -->
-            <details open>
-                <summary><h3>Java / Scala</h3></summary>            
-                <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff"></a>      
-                <a href="#"><img alt="gradle" src ="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"></a>          
-                <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a> 
-                <a href="#"><img alt="Spark" src="https://img.shields.io/badge/Spark-3DDC84?style=for-the-badge&logo=spark&logoColor=white"></a> 
-            </details>   
+    <details open>
+        <summary><h3>Java / Scala</h3></summary>            
+        <p> 
+            my first language 
+            spring boot amazing, but you have to marry them , and im not ready to commit to this attention loving framework.
+            love scala , beutiful funcrional porgamming langue,and i love math, and the  systax so satifiying, plus i love its spark streaming and kafka streams integrations,
         </p>
+        <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff"></a>      
+        <a href="#"><img alt="gradle" src ="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"></a>          
+        <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a> 
+        <a href="#"><img alt="Spark" src="https://img.shields.io/badge/Spark-3DDC84?style=for-the-badge&logo=spark&logoColor=white"></a> 
+    </details>   
+</p>
     </details>                                
     <details>
         <summary><h3>Services</h3></summary>  
         <p>
+            my bread and butter,
+            kafka probably my favorite software
+            spark please marry me
+            Kubernetes, when its the right use case it basicily carrying everyone 
+            jenkins i love you
+            nginx be my boyfriend
         </p>  
         <p>
             <a href="#"><img alt="Apache Kafka" src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"></a>      
             <a href="#"><img alt="Apache_Spark" src ="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16"></a>  
-            <a href="#"><img alt="Rabbit MQ" src ="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white"></a>  
             <a href="#"><img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"></a>                          
             <a href="#"><img alt="Jenkins" src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"></a>                   
             <a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white&labelColor=red>"></a>        
-            <a href="#"><img alt="Hadoop" src ="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white"></a>                  
             <a href="#" ><img alt="grafana" title="Microsoft Teams" src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white"></a>          
-            <a href="#" ><img alt="Prometheus" title="Microsoft Teams" src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white"></a>         
+            <a href="#" ><img alt="Prometheus" title="Microsoft Teams" src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white"></a>                 
+            <a href="#"><img alt="Hadoop" src ="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white"></a>                  
+            <a href="#"><img alt="Rabbit MQ" src ="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white"></a>              
             <a href="#" ><img alt="OpenTelemetry" title="Microsoft Teams" src="https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=for-the-badge&logo=opentelemetry&logoColor=black"></a>          
         </p>        
     </details>        
     <details open>
         <summary><h3>My Databases</h3></summary>  
+        <p>
+            postgressql my goto for SQL
+            mongodb my goto for NOSQL
+            redis is here since in the end memory database still a database , its an abosolute banger with huge flexibliy and use cases
+            sqlite always been there for you
+            elastic search always somehow i endup needing this for something
+            cassandara beutiful distriubted database i want to use more often with relevent use case
+        </p>
         <p>
             <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a>    
             <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>        
@@ -305,6 +438,18 @@ Jack of all trades 🃏, and a master of some, with cross-domain knowledge, deep
     </details>        
     <details open>
         <summary><h3>My Deployment & Hosting</h3></summary>  
+        <p>
+            im grateful favorite git provider github for free default page per account.github.io for hosting my website freely, i love you.
+            git actions truly an amazing tool
+            used heroku back when it had free tier 
+            vercel is my free hosting
+            and aws ec2 or servers or eks for the servers .
+            go daddy is where ibuy my domains 
+            and cloudflare one of my favorite tools, insta protection from my greatest fear ddos attacks
+            free, security providing, global CDN, monitoring , no brainer i have this for every website.
+            many feeatures.
+        </p>
+        <p>
         <p>  
             <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-121013?style=for-the-badge&logo=github&logoColor=white"></a>
             <a href="#"><img alt="Github Actions" src="https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe"></a>            
@@ -416,6 +561,12 @@ Jack of all trades 🃏, and a master of some, with cross-domain knowledge, deep
     </details>          
     <h3>🤝 Collaboration Tools</h3>
     <p>Collaboration tools i used and familiar with</p>
+        <p>
+            those tools i used with other people, or teams, 
+            i think slack with jira integration and trello
+            with microsoft teams is probably would be my goto 
+            but if discord or other tools are needed i don't mind 
+        </p>
     <p>
         <a href="#"><img alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"></a>
         <a href="#"><img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&style=for-the-badge&logoColor=fff"></a>
@@ -428,6 +579,9 @@ Jack of all trades 🃏, and a master of some, with cross-domain knowledge, deep
     </p>
     <h3>🤖 AI Services</h3>
     <p>
+        the ai services i constantly use, really help in saving a lot of time, i would never use those tools with stuff i dont understand , since theni wouldnt be able to correct this 70% error rate on niche subjects. i would use it for fast learning sometimes, with checks, i prefer the good old fastion gpt since hes sufficent for my general use cases, sometime use the rest
+    </p>
+    <p>
         <a href="#"><img alt="Chat GPT" src="https://img.shields.io/badge/Chat%20GPT-black?style=for-the-badge&logo=openai&logoColor=white"></a>
         <a href="#"><img alt="Google Gemini" src="https://img.shields.io/badge/Google%20Gemini-white?style=for-the-badge&logo=googlegemini&logoColor=blue"></a>
         <a href="#"><img alt="Claude" src="https://img.shields.io/badge/Claude-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"></a>
@@ -436,11 +590,20 @@ Jack of all trades 🃏, and a master of some, with cross-domain knowledge, deep
     <h3>💫 AI Models</h3>
     <p>models i trained or used on my computers</p>
     <p>
+        rhose are an acualy models i got localy, google FLANT1, 
+        i used stable diffusion, super satificating , require some learning curve and exprience 
+    <p>
+    <p>
         <a href="#"><img alt="Stable diffusion" src="https://img.shields.io/badge/Stable_diffusion-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"></a>
         <a href="#"><img alt="Stylgan" src="https://img.shields.io/badge/Stylgan-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"></a>
     </p>
     <h3>🌅 My Favorite Everyday Softwares</h3>
     <p>My personal use softwares.</p>
+        <p>
+            obsidian absolute must, i cannot live without this program
+            librera u better use this if you like books, no competitor ar the high quality product they have
+            obs 
+        </p>
     <p>
         <a href="#"><img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white"></a>
         <a href="#"><img alt="Librera" src="https://img.shields.io/badge/Librera-white?logo=obs-studio&style=for-the-badge&logoColor=black"></a>
@@ -454,6 +617,9 @@ Jack of all trades 🃏, and a master of some, with cross-domain knowledge, deep
     </p>
     <h3>📠 My Office Tools</h3>
     <p>Documents tools i used and familiar with</p>
+        <p>
+         i had my fair share of using office tools, im pretty much used all of those, both in school, high school and academia, and other places, or programs
+        </p>
     <p>
         <a href="#"><img alt="Google Docs" src="https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white"></a>
         <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"></a>    
@@ -464,14 +630,20 @@ Jack of all trades 🃏, and a master of some, with cross-domain knowledge, deep
         <a href="#"><img alt="LibreOffice" src="https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white"></a>
     </p>    
     <h3>🌈 My Web Browsers</h3>
-    <p>i don't touch other browsers, no edge or safari</p>
+    <p>i don't touch other browsers, no edge or safari, no matter how much microsoft will beg me</p>
     <p>
         <a href="#"><img alt="Google Chrome" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"></a>
         <a href="#"><img alt="Firefox Browser" src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"></a>
         <a href="#"><img alt="Tor Browser" src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white"></a>
     </p>
     <h3>💌 My Favorite Web Resources</h3>
-    <p>websites which i appreciate their existence</p>
+    <p>
+        websites which i appreciate their existence
+        stackoverflow is godsend
+        wikipedia watched me grow up
+        geeks for geeks basicily had too much contribution to , that i cant ackowlege them,
+        my most fun i had in ages was with google scholar, reasearch gates ,and thier familars, i deep dived into various researchs, few big ones was indoor navigations and algorithmic trading,
+    </p>
     <p>
         <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
         <a href="#"><img alt="Wikipedia" src="https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white"></a>
