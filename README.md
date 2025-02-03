@@ -177,8 +177,7 @@ This list only shows my actual skills and knowledge, built over 15 years of plan
             <a href="#"><img alt="mypy" src="https://img.shields.io/badge/mypy-2C5F2D?style=for-the-badge&logo=python&logoColor=white"/></a>                
         <p>        
         <br/>
-        <details open>
-            <summary><h4> 🚀 Frameworks </h4></summary>
+            <h4> 🚀 Frameworks </h4>
             </br>
             <p>
                 <a href="#"><img alt="cython" src="https://img.shields.io/badge/cython-%23dffcef.svg?style=for-the-badge&logo=python&logoColor=lightgreen"/></a>
@@ -194,11 +193,9 @@ This list only shows my actual skills and knowledge, built over 15 years of plan
                 </br>
                 </br>
                 <a href="#"><img alt="AI And Machine Learning" src="https://img.shields.io/badge/AI%20and%20Machine Learning-black?style=for-the-badge&logo=python&logoColor=black&label=described below"/></a>    
-            </p>
-        </details>                       
+            </p>                     
         <br/>
-        <details open>
-            <summary><h4>📚 Libraries 📖</h4></summary>
+            <h4>📚 Libraries 📖</h4>
             </br>
             <p>
                 <a href="#"><img alt="Locust" src="https://img.shields.io/badge/Locust-%23ffffff.svg?style=for-the-badge&logo=Locust&logoColor=2f9fe3"/></a>
@@ -206,10 +203,8 @@ This list only shows my actual skills and knowledge, built over 15 years of plan
                 <a href="#"><img alt="BeautifulSoup" src="https://img.shields.io/badge/BeautifulSoup-%23ffffff.svg?style=for-the-badge&logo=beautifulsoup&logoColor=2f9fe3"/></a>
                 <a href="#"><img alt="selenium" title="selenium" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white"/></a>
             </p>
-        </details>
         </br>
-        <details open>
-        <summary><h4>🪛 Tools 📖</h4></summary>   
+        <h4>🪛 Tools 📖</h4>
         <p>
                 I'm familiar with a variety of excellent tools, but I prefer the top ones. That said, the following tools hold a special place in my stack and are used on many occasions for their unique value.
         </p>     
@@ -223,7 +218,6 @@ This list only shows my actual skills and knowledge, built over 15 years of plan
             <a href="#"><img alt="creosote" src="https://img.shields.io/badge/CREOSOTE-8B0000?style=for-the-badge&logo=python&logoColor=white"/></a>
             <a href="#"><img alt="Code spell" src="https://img.shields.io/badge/codespell-4285F4?style=for-the-badge&logo=pre-commit&logoColor=FAB040"></a>           
         </p>
-        </details>
     </br>
     </details>
     <!-- 
@@ -239,8 +233,7 @@ This list only shows my actual skills and knowledge, built over 15 years of plan
             <a href="#"><img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" /></a>
             <a href="#"><img alt="Bun" src="https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white" /></a>     
         </p>   
-        <details open>
-            <summary><h4>🦄 Frameworks</h4></summary>
+            <h4>🦄 Frameworks</h4>
             </br>
             <p>
                 <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" /></a>
@@ -255,9 +248,7 @@ This list only shows my actual skills and knowledge, built over 15 years of plan
                 <a href="#"><img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" /></a>
                 <a href="#"><img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" /></a>    
             </p>                    
-        </details>
-        <details open>
-            <summary><h4>🦚 Tools</h4></summary>
+          <h4>🦚 Tools</h4>
             </br>
             <p>
                 <a href="#"><img alt="Webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" /></a>                    
@@ -267,9 +258,7 @@ This list only shows my actual skills and knowledge, built over 15 years of plan
                 <a href="#"><img alt="Husky" src="https://img.shields.io/badge/Husky-000000?style=for-the-badge&logo=husky&logoColor=white" /></a>
                 <a href="#"><img alt="lint-staged" src="https://img.shields.io/badge/lint--staged-46a2f1?style=for-the-badge&logo=github-actions&logoColor=white" /></a>
             </p>
-        </details>
-        <details open>
-            <summary><h4>🦩 Libraries</h4></summary>
+            <h4>🦩 Libraries</h4>
             </br>
             <p>
                 <a href="#"><img alt="Lodash" src="https://img.shields.io/badge/Lodash-3492FF?style=for-the-badge&logo=lodash&logoColor=white" /></a>
@@ -282,7 +271,8 @@ This list only shows my actual skills and knowledge, built over 15 years of plan
                 <a href="#"><img alt="Quill" src="https://img.shields.io/badge/Quill-000000?style=for-the-badge&logo=quill&logoColor=white" /></a>
                 <a href="#"><img alt="Draft.js" src="https://img.shields.io/badge/Draft.js-000000?style=for-the-badge&logo=draft.js&logoColor=white" /></a>
             </p>
-        </details>
+            </br>
+            </br>
     </details>
     <!-- 
      -->
@@ -301,6 +291,8 @@ This list only shows my actual skills and knowledge, built over 15 years of plan
             <a href="#"><img alt="Unity" src ="https://img.shields.io/badge/Unity-00979D?style=for-the-badge&logo=unity&logoColor=white"></a>                       
             <a href="#"><img alt="Arduino" src ="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"></a>                       
         </p>
+        </br>
+        </br>
     </details>            
     <details>
         <summary><h3>🦕 Java / Scala 🐦‍🔥</h3></summary>
@@ -310,7 +302,7 @@ This list only shows my actual skills and knowledge, built over 15 years of plan
             <a href="#"><img alt="gradle" src ="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"></a>          
             <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a> 
             <a href="#"><img alt="Spark" src="https://img.shields.io/badge/Spark-3DDC84?style=for-the-badge&logo=spark&logoColor=white"></a>   
-        </p>      
+        </p>
     </details>
     </br>
     </br>
@@ -350,7 +342,7 @@ This list only shows my actual skills and knowledge, built over 15 years of plan
 </details>        -->
 
 <details>
-        <summary><h3>My Databases</h3></summary>  
+        <summary><h3>💣 My Databases 🧨</h3></summary>  
         </br>
         <p>
             PostgreSQL is my go-to for SQL databases, while MongoDB is my preferred choice for NoSQL or vectors. Redis is a powerhouse as an in-memory database—flexible and with endless use cases. SQLite has always been reliable. Elasticsearch is something I often find myself needing for various projects. Cassandra is a beautiful distributed database I’d love to use more often when the right use case arises.
@@ -369,9 +361,10 @@ This list only shows my actual skills and knowledge, built over 15 years of plan
             <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?style=for-the-badge&logo=oracle&logoColor=white"></a>                          
             <a href="#"><img alt="Microsoft SQL Server" src ="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"></a>
         </p>
-    </details>        
-    <details>
-        <summary><h3>My Deployment & Hosting</h3></summary>  
+</details>   
+
+<details>
+        <summary><h3>🚀 My Deployment & Hosting</h3></summary>  
         </br>
         <p>
             I'm grateful for GitHub for free hosting with GitHub Pages, and GitHub Actions is a fantastic tool. I’ve used Heroku in the past and now rely on Vercel for free hosting. For servers, I use AWS EC2, EKS, or other AWS services. Domains are purchased through GoDaddy, and Cloudflare is a must-have for every website I manage. I'll likely explore more cloud providers in the future, such as GCP and Azure.
@@ -392,8 +385,10 @@ This list only shows my actual skills and knowledge, built over 15 years of plan
             <a href="#"><img alt="GCP" src="https://img.shields.io/badge/GCP-white.svg?logo=gcp&logoColor=blue"></a>   
              -->            
         </p>  
-    </details>   
-    <details >
+</details>   
+
+<!-- 
+<details >
     <summary><h3>My Programming SKills</h3></summary>       
         <details open>
             <summary><h4>My Paradigms</h4></summary>  
@@ -497,20 +492,21 @@ This list only shows my actual skills and knowledge, built over 15 years of plan
                     <a href="#"><img alt="Open Systems Interconnection (OSI)" src="https://img.shields.io/badge/OSI-FF6347?style=for-the-badge"></a>
                 </p>
             </details>                      
-            <!-- <details open>
-                <summary><h3>Specific Concepts</h3></summary>  
-                <p>
-                    <a href="#"><img alt="Identity Management" src="https://img.shields.io/badge/Authentication%20%26%20Authorization-9B59B6?style=for-the-badge&logo=keycloak&logoColor=white"></a>
-                    <a href="#"><img alt="Web Scraping" src="https://img.shields.io/badge/Web%20Scraping-FF6347?style=for-the-badge&logo=scrapy&logoColor=white"></a>
-                    <a href="#"><img alt="Cloud Storage" src="https://img.shields.io/badge/Cloud%20Storage-1ABC9C?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
-                    <a href="#"><img alt="WebSockets & Sockets" src="https://img.shields.io/badge/Cloud%20Computing-1ABC9C?style=for-the-badge&logo=aws&logoColor=white"></a>
-                <p>      
-                                            -->
     </details>
         </p>       
         </br> 
         </br>
-</details>    
+</details>     -->
+
+<!-- <details open>
+    <summary><h3>Specific Concepts</h3></summary>  
+    <p>
+        <a href="#"><img alt="Identity Management" src="https://img.shields.io/badge/Authentication%20%26%20Authorization-9B59B6?style=for-the-badge&logo=keycloak&logoColor=white"></a>
+        <a href="#"><img alt="Web Scraping" src="https://img.shields.io/badge/Web%20Scraping-FF6347?style=for-the-badge&logo=scrapy&logoColor=white"></a>
+        <a href="#"><img alt="Cloud Storage" src="https://img.shields.io/badge/Cloud%20Storage-1ABC9C?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
+        <a href="#"><img alt="WebSockets & Sockets" src="https://img.shields.io/badge/Cloud%20Computing-1ABC9C?style=for-the-badge&logo=aws&logoColor=white"></a>
+    <p>      
+-->
 
 <details>
     <summary><h3>🧬 Data Science, AI and Machine Learning  🧪</h3></summary>  
@@ -559,7 +555,7 @@ This list only shows my actual skills and knowledge, built over 15 years of plan
     <br>
 </details>    
 
-<details>
+<!-- <details>
     <summary><h3> Communication, Resources and Other</h3></summary>  
     <h3>🤝 Collaboration Tools</h3>
         These are the tools I’m comfortable with for working with others or teams.
@@ -627,7 +623,7 @@ This list only shows my actual skills and knowledge, built over 15 years of plan
     </br>
 </details>
 </br>
-    </br>
+    </br> -->
 
 </details> 
 
