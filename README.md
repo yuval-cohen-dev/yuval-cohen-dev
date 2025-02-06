@@ -416,6 +416,7 @@ This list only shows my actual skills and knowledge, built over 15 years of plan
                 <a href="#"><img alt="Keep it simple stupid(KISS)" src="https://img.shields.io/badge/KISS-3A8BB6?style=for-the-badge"></a>
                 <a href="#"><img alt="You Aren't Gonna Need It(YAGNI)" src="https://img.shields.io/badge/YAGNI-3A8BB6?style=for-the-badge"></a>
                 <a href="#"><img alt="easier to ask forgiveness than permission(EAFP)" src="https://img.shields.io/badge/EAFP-3A8BB6?style=for-the-badge"></a>
+                <a href="#"><img alt="Look before you leap(LBYL)" src="https://img.shields.io/badge/LBYL-3A8BB6?style=for-the-badge"></a>                
                 <a href="#"><img alt="single source of truth (SSOT)" src="https://img.shields.io/badge/SSOT-3A8BB6?style=for-the-badge"></a>
                 <a href="#"><img alt="command–query separation (CQS)" src="https://img.shields.io/badge/CQS-3A8BB6?style=for-the-badge"></a>
                 <a href="#"><img alt="Observability" src="https://img.shields.io/badge/Observability-7F9EC3?style=for-the-badge"></a>
