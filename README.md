@@ -633,11 +633,11 @@ This list only shows my actual skills and knowledge, built over 15 years of plan
     <div align="left">
         <div>
             <h3>Recent</h3>
-            <a href="https://github.com/cohenyuval315/PyMicroservicesBase">
+            <a href="https://github.com/yuval-cohen-dev/PyMicroservicesBase">
                 <img 
                     width="278" 
                     alt="readme-typing-svg"
-                    src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cohenyuval315&repo=PyMicroservicesBase&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" 
+                    src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yuval-cohen-dev&repo=PyMicroservicesBase&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" 
                 />
             </a>
         </div>
@@ -646,7 +646,7 @@ This list only shows my actual skills and knowledge, built over 15 years of plan
         </div>
     </div>
     <p>
-        <a href="https://github.com/cohenyuval315?tab=repositories&sort=stargazers">
+        <a href="https://github.com/yuval-cohen-dev?tab=repositories&sort=stargazers">
             <img 
                 alt="All Repositories" 
                 title="All Repositories" 
@@ -660,18 +660,18 @@ This list only shows my actual skills and knowledge, built over 15 years of plan
     <summary><h2>📊 My Github Stats</h2></summary>
     </br>
     <p align="center">
-        <a href="https://github.com/cohenyuval315">
+        <a href="https://github.com/yuval-cohen-dev">
         <img 
             title="🔥 Streak Stats 🔥" 
-            alt="Cohenyuval315's streak" 
-            src="https://github-readme-streak-stats-eight.vercel.app/?user=cohenyuval315&show_icons=true&theme=tokyonight&hide_border=true&short_numbers=true&background=transparent"  
+            alt="yuval-cohen-dev's streak" 
+            src="https://github-readme-streak-stats-eight.vercel.app/?user=yuval-cohen-dev&show_icons=true&theme=tokyonight&hide_border=true&short_numbers=true&background=transparent"  
         />
         </a>
         <a href="https://github.com/anuraghazra/github-readme-stats">
             <img
                 alt="Cohenyuval315's Github Stats" 
                 height="192px"
-                src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=cohenyuval315&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=00000000" 
+                src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=yuval-cohen-dev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=00000000" 
             />
         </a>
         <a 
@@ -679,14 +679,14 @@ This list only shows my actual skills and knowledge, built over 15 years of plan
             <img 
                 height="192px"
                 alt="Cohenyuval315's Top Languages" 
-                src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=cohenyuval315&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&hide=Jupyter%20Notebook,Roff" 
+                src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=yuval-cohen-dev&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&hide=Jupyter%20Notebook,Roff" 
             />
         </a>
         <a 
-            href="https://github.com/cohenyuval315/github-readme-activity-graph">
+            href="https://github.com/yuval-cohen-dev/github-readme-activity-graph">
             <img 
-                alt="cohenyuval's Activity Graph" 
-                src="https://github-readme-activity-graph.vercel.app/graph/?username=cohenyuval315&bg_color=00000000&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" 
+                alt="yuval-cohen-dev's Activity Graph" 
+                src="https://github-readme-activity-graph.vercel.app/graph/?username=yuval-cohen-dev&bg_color=00000000&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" 
             />
         </a>
         <h3>⚡ Recent GitHub Activity</h3>
@@ -702,7 +702,7 @@ This list only shows my actual skills and knowledge, built over 15 years of plan
     <summary><h2>💎 My Tech Platforms</h2></summary>
     </br>
     <p>                        
-        <a target="_blank" href="https://github.com/cohenyuval315"><img alt="Github" title="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>               
+        <a target="_blank" href="https://github.com/yuval-cohen-dev"><img alt="Github" title="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>               
         <br/>                 
         <a target="_blank" href="https://leetcode.com/u/steel315/"><img alt="Leet Code" title="Leet Code"src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></a>    
         </br>
