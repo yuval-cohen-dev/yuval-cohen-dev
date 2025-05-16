@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=50&pause=3000&color=32de84&center=true&vCenter=true&width=500&height=50&lines=Yuval+Cohen;" alt="Yuval Cohen" />
 </h2>
 <p align="center">
-  <a href="https://github.com/cohenyuval315">
+  <a href="https://github.com/yuval-cohen-dev">
     <img src="https://readme-typing-svg.demolab.com/?lines=Software Engineer;Coding experience;Always%20learning%20new%20things&font=FiraCode&center=true&width=440&height=45&color=DA70D6&vCenter=true&pause=1000&size=22" 
         />
     </a>
