@@ -3,7 +3,7 @@
 </h2>
 <p align="center">
   <a href="https://github.com/yuval-cohen-dev">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Software Engineer;Coding experience;Always%20learning%20new%20things&font=FiraCode&center=true&width=440&height=45&color=DA70D6&vCenter=true&pause=1000&size=22" 
+    <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineer;Coding%20experience;Always%20learning%20new%20things&font=FiraCode%C2%A2er=true&width=440&height=45&color=DA70D6&vCenter=true&pause=1000&size=22" 
         />
     </a>
 </p>
