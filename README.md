@@ -627,20 +627,9 @@ The Order hierarchy based , on 🏆 experience, 🚀 frequency of use, ❤️ pr
     </br> -->
 
 </details> 
-
 <details> 
     <summary><h2>📘 Projects</h2></summary>
     <div align="left">
-        <div>
-            <!-- <h3>Recent</h3> -->
-            <!-- <a href="https://github.com/yuval-cohen-dev/REPO">
-                <img 
-                    width="278" 
-                    alt="readme-typing-svg"
-                    src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yuval-cohen-dev&repo=REPO&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" 
-                />
-            </a> -->
-        </div>
         <div>
             <h3></h3>
         </div>
