@@ -3,7 +3,7 @@
 </h2>
 <p align="center">
   <a href="https://github.com/yuval-cohen-dev">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineer;Researcher%20and%20Developer;Lifelong%20Learner%20and%20tThinker&font=FiraCode%C2%A2er=true&width=440&height=45&color=DA70D6&vCenter=true&pause=1000&size=22" 
+    <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineer;Researcher%20and%20Developer;Lifelong%20Learner%20and%20Thinker&font=FiraCode%C2%A2er=true&width=440&height=45&color=DA70D6&vCenter=true&pause=1000&size=22" 
         />
     </a>
 </p>
@@ -631,7 +631,7 @@ The Order hierarchy based , on 🏆 experience, 🚀 frequency of use, ❤️ pr
 <details> 
     <summary><h2>📘 Projects</h2></summary>
     <div align="left">
-        <!-- <div>
+        <div>
             <!-- <h3>Recent</h3> -->
             <!-- <a href="https://github.com/yuval-cohen-dev/REPO">
                 <img 
@@ -640,7 +640,7 @@ The Order hierarchy based , on 🏆 experience, 🚀 frequency of use, ❤️ pr
                     src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yuval-cohen-dev&repo=REPO&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" 
                 />
             </a> -->
-        </div> -->
+        </div>
         <div>
             <h3></h3>
         </div>
