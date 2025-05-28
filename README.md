@@ -3,12 +3,12 @@
 </h2>
 <p align="center">
   <a href="https://github.com/yuval-cohen-dev">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineer;Coding%20experience;Always%20learning%20new%20things&font=FiraCode%C2%A2er=true&width=440&height=45&color=DA70D6&vCenter=true&pause=1000&size=22" 
+    <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineer;Researcher%20and%20Developer;Lifelong%20Learner%20and%20tThinker&font=FiraCode%C2%A2er=true&width=440&height=45&color=DA70D6&vCenter=true&pause=1000&size=22" 
         />
     </a>
 </p>
 <p align="center">
-    <a href="https://www.linkedin.com/in/yc315/">
+    <a href="https://www.linkedin.com/in/yuval-cohen-dev">
         <img 
             alt="LinkedIn" 
             title="LinkedIn" 
@@ -49,7 +49,7 @@
 </p>
 <div>
 <p>
-👋 Hi, I’m Yuval Cohen, an enthusiastic and ambitious Software Engineer and Developer ⚡️. I specialize in Python, Web Development and Software Design.
+👋 Hi, I’m Yuval Cohen, an enthusiastic and ambitious Software Engineer and Developer ⚡️.
 </p>
 
 <p >
@@ -78,8 +78,8 @@ The Order hierarchy based , on 🏆 experience, 🚀 frequency of use, ❤️ pr
 
 ⚠️ <strong>Important!</strong>: This isn't a comprehensive list. Some lesser-known or use-case-specific technologies and libraries aren’t included here. Consider this a general overview of my main tools!
 
-⚠️ <strong>Important!</strong>: Some sections might seem a bit detailed or repetitive, but I promise nothing here is misleading. For instance, I could add things like meta programming or pair programming (will find time in the future for those two), but since I don't have real experience with them, they're not included.
-This list only shows my actual skills and knowledge, built over 15 years of planning, designing, implementing and testing (besides my bachelor’s).  
+⚠️ <strong>Important!</strong>: Some sections may appear detailed or repetitive, but I assure you everything here is accurate and honest. While there are other topics I might explore in the future, I’ve only included skills and knowledge I have real experience with.
+ This list reflects over decades of hands-on work in planning, designing, implementing, and testing, in addition to my bachelor’s degree.
 </p>
 </br>
 <h3>
@@ -161,7 +161,7 @@ This list only shows my actual skills and knowledge, built over 15 years of plan
         <summary><h3>🐉 Python 🐲</h3></summary> 
         </br>
         <p>
-            Python is my language of choice. I’m well-versed in its built-in libraries and follow PEP guidelines, with experience rooted in practical use and the official documentation.
+            Python is one of my goto programing languages. I’m well-versed in its built-in libraries and follow PEP guidelines, with experience rooted in practical use and the official documentation.
         </p>
         </br>
         <p>
@@ -631,16 +631,16 @@ This list only shows my actual skills and knowledge, built over 15 years of plan
 <details> 
     <summary><h2>📘 Projects</h2></summary>
     <div align="left">
-        <div>
-            <h3>Recent</h3>
-            <a href="https://github.com/yuval-cohen-dev/PyMicroservicesBase">
+        <!-- <div>
+            <!-- <h3>Recent</h3> -->
+            <!-- <a href="https://github.com/yuval-cohen-dev/REPO">
                 <img 
                     width="278" 
                     alt="readme-typing-svg"
-                    src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yuval-cohen-dev&repo=PyMicroservicesBase&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" 
+                    src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yuval-cohen-dev&repo=REPO&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" 
                 />
-            </a>
-        </div>
+            </a> -->
+        </div> -->
         <div>
             <h3></h3>
         </div>
