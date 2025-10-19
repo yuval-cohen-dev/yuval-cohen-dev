@@ -57,7 +57,7 @@ Jack of all trades 🃏, and a master of some, with cross-domain knowledge, deep
 </p>
 
 <p >
-🤝 I love to network, join new communities, and add value wherever I go ✨. 
+🤝 I enjoy networking, joining communities, and contributing wherever I can. Open to any topic — complete confidentiality.
 </p>
 <p >
  Feel free to send me a message!
